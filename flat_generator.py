@@ -7,9 +7,6 @@ def flat_generator(list_of_lists):
             yield item
 
 
-
-
-
 def test_2():
     list_of_lists_1 = [
         ['a', 'b', 'c'],
